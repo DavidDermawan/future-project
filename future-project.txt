@@ -2,6 +2,10 @@ Future Project
 - JavaScript
   * ES6
   * Framework JavaScript
+   ^ Vue
+   ^ React
 - Struktur Data Dasar
 - PHP frameworks
+  ^ Laravel
 - interview
+- Python
