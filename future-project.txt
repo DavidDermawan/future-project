@@ -3,3 +3,4 @@ Future Project
 - Learn Bootstrap
 - Learn React JS
 - Learn C#
+- Making website more dynamic
