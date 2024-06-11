@@ -3,5 +3,6 @@ Future Project
 - Learn Bootstrap
 - Learn React JS
 - Making website more dynamic
-- Learn Python
 - Angular
+- Vue
+
