@@ -1,8 +1,7 @@
 Future Project
-- Finisihing portofolio Website
-- Learn Bootstrap
-- Learn React JS
-- Making website more dynamic
-- Angular
-- Vue
-
+- JavaScript
+  * ES6
+  * Framework JavaScript
+- Struktur Data Dasar
+- PHP frameworks
+- interview
