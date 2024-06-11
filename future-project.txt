@@ -2,5 +2,6 @@ Future Project
 - Finisihing portofolio Website
 - Learn Bootstrap
 - Learn React JS
-- Learn C#
 - Making website more dynamic
+- Learn Python
+- Angular
