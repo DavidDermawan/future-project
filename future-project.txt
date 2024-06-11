@@ -4,3 +4,5 @@ Future Project
 - Learn React JS
 - Learn C#
 - Making website more dynamic
+- Angular
+- Vue
