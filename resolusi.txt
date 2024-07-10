@@ -1,0 +1,4 @@
+Resolusi untuk beberapa tahun kedepan
+- Menjadi Front-End Developer yang menguasai banyak library dan framework
+- Tiap minggu menyelesaikan setidaknya 10 challenge di LeetCode
+- Membuat website yang dapat berguna di daily life
