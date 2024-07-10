@@ -1,3 +1,0 @@
-C#
-React JS
-Angular
